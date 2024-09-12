@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\4rest\\Desktop\\Shin\\OSS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\4rest\\Desktop\\Shin\\OSS\\2\uC8FC\uCC28\\COVID-19.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2\uC8FC\uCC28\\COVID-19.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\4rest\\Desktop\\Shin\\OSS\\2\uC8FC\uCC28\\covid19_statistics_skeleton.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2\uC8FC\uCC28\\covid19_statistics_skeleton.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\4rest\\Desktop\\Shin\\OSS\\2\uC8FC\uCC28\\covid19_statistics.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2\uC8FC\uCC28\\covid19_statistics.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\4rest\\Desktop\\Shin\\OSS\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\4rest\\Desktop\\Shin\\OSS\\2\uC8FC\uCC28\\covid19_statistics_skeleton.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2\uC8FC\uCC28\\covid19_statistics_skeleton.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,38 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "COVID-19.md",
-              "DocumentMoniker": "C:\\Users\\4rest\\Desktop\\Shin\\OSS\\2\uC8FC\uCC28\\COVID-19.md",
-              "RelativeDocumentMoniker": "2\uC8FC\uCC28\\COVID-19.md",
-              "ToolTip": "C:\\Users\\4rest\\Desktop\\Shin\\OSS\\2\uC8FC\uCC28\\COVID-19.md",
-              "RelativeToolTip": "2\uC8FC\uCC28\\COVID-19.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Title": "covid19_statistics.md",
+              "DocumentMoniker": "C:\\Users\\4rest\\Desktop\\Shin\\OSS\\2\uC8FC\uCC28\\covid19_statistics.md",
+              "RelativeDocumentMoniker": "2\uC8FC\uCC28\\covid19_statistics.md",
+              "ToolTip": "C:\\Users\\4rest\\Desktop\\Shin\\OSS\\2\uC8FC\uCC28\\covid19_statistics.md",
+              "RelativeToolTip": "2\uC8FC\uCC28\\covid19_statistics.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-09-12T06:01:07.473Z",
+              "WhenOpened": "2024-09-12T06:07:41.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\4rest\\Desktop\\Shin\\OSS\\README.md",
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\4rest\\Desktop\\Shin\\OSS\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-09-12T05:50:56.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "covid19_statistics_skeleton.py",
               "DocumentMoniker": "C:\\Users\\4rest\\Desktop\\Shin\\OSS\\2\uC8FC\uCC28\\covid19_statistics_skeleton.py",
               "RelativeDocumentMoniker": "2\uC8FC\uCC28\\covid19_statistics_skeleton.py",
               "ToolTip": "C:\\Users\\4rest\\Desktop\\Shin\\OSS\\2\uC8FC\uCC28\\covid19_statistics_skeleton.py",
               "RelativeToolTip": "2\uC8FC\uCC28\\covid19_statistics_skeleton.py",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwCMAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-09-12T05:43:10.752Z",
               "EditorCaption": ""
