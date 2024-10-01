@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\4rest\\Desktop\\Shin\\OSS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\4rest\\Desktop\\Shin\\OSS\\3th\\class_score_analysis_skeleton.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3th\\class_score_analysis_skeleton.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\4rest\\Desktop\\Shin\\OSS\\4th\\mean_var.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:4th\\mean_var.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\4rest\\Desktop\\Shin\\OSS\\4th\\class_score_mean.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:4th\\class_score_mean.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\4rest\\Desktop\\Shin\\OSS\\3th\\class_score_analysis.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3th\\class_score_analysis.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\4rest\\Desktop\\Shin\\OSS\\3th\\class_score_analysis_skeleton.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3th\\class_score_analysis_skeleton.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "class_score_mean.py",
+              "DocumentMoniker": "C:\\Users\\4rest\\Desktop\\Shin\\OSS\\4th\\class_score_mean.py",
+              "RelativeDocumentMoniker": "4th\\class_score_mean.py",
+              "ToolTip": "C:\\Users\\4rest\\Desktop\\Shin\\OSS\\4th\\class_score_mean.py",
+              "RelativeToolTip": "4th\\class_score_mean.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T15:05:49.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mean_var.py",
+              "DocumentMoniker": "C:\\Users\\4rest\\Desktop\\Shin\\OSS\\4th\\mean_var.py",
+              "RelativeDocumentMoniker": "4th\\mean_var.py",
+              "ToolTip": "C:\\Users\\4rest\\Desktop\\Shin\\OSS\\4th\\mean_var.py",
+              "RelativeToolTip": "4th\\mean_var.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T15:05:33.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "class_score_analysis.md",
               "DocumentMoniker": "C:\\Users\\4rest\\Desktop\\Shin\\OSS\\3th\\class_score_analysis.md",
               "RelativeDocumentMoniker": "3th\\class_score_analysis.md",
@@ -39,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "class_score_analysis_skeleton.py",
               "DocumentMoniker": "C:\\Users\\4rest\\Desktop\\Shin\\OSS\\3th\\class_score_analysis_skeleton.py",
               "RelativeDocumentMoniker": "3th\\class_score_analysis_skeleton.py",
               "ToolTip": "C:\\Users\\4rest\\Desktop\\Shin\\OSS\\3th\\class_score_analysis_skeleton.py",
               "RelativeToolTip": "3th\\class_score_analysis_skeleton.py",
-              "ViewState": "AgIAABgAAAAAAAAAAAAcwCUAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-09-19T09:30:56.844Z",
               "EditorCaption": ""
